@@ -17,7 +17,7 @@ const Persik = props => (
 				{osName === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
 			</PanelHeaderButton>}
 		>
-			Persik
+			тест
 		</PanelHeader>
 	<?php
    echo "лол";
@@ -30,6 +30,6 @@ Persik.propTypes = {
 	go: PropTypes.func.isRequired,
 };
 
-export default Persik;
+export default Test;
 
 </script>
