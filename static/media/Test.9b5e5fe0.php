@@ -30,6 +30,6 @@ Persik.propTypes = {
 	go: PropTypes.func.isRequired,
 };
 
-export default Test;
+export default Test.php;
 
 </script>
